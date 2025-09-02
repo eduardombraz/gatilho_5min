@@ -16,6 +16,8 @@ WORKFLOWS = [
     {"repo": "Base-TOPacked", "workflow": "main_base_to_packed.yaml"},
     {"repo": "Base-Sacas2.0", "workflow": "main_base_sacas2.0.yaml"},
     {"repo": "Base-FIFO", "workflow": "main_base_fifo.yaml"},
+    {"repo": "ToPackedSP7", "workflow": "main_base_to_packedSP7.yaml"},
+    {"repo": "piso_exp_sp7", "workflow": "piso10.yml"},
 ]
 
 # Rota principal para verificar se o app está no ar

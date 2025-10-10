@@ -19,7 +19,6 @@ WORKFLOWS = [
     {"repo": "ToPackedSP7", "workflow": "main_base_to_packedSP7.yaml"},
     {"repo": "piso_exp_sp7", "workflow": "piso10.yml"},
     {"repo": "BaseExpedi-o", "workflow": "main_expedicao.yaml"},
-    {"repo": "Base-Expedicao2", "workflow": "main_expedicao2.yaml"},
     {"repo": "Base-inbound", "workflow": "main_inbound.yaml"},
 ]
 

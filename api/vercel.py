@@ -14,7 +14,6 @@ HEADERS = {
 # Lista de workflows a serem acionados
 WORKFLOWS = [
     {"repo": "Base-ended", "workflow": "main_ended.yaml"},
-    {"repo": "BaseExpedi-o", "workflow": "main_expedicao.yaml"},
     {"repo": "Base-inbound", "workflow": "main_inbound.yaml"},
 ]
 
